@@ -1,6 +1,3 @@
-# HelloWorld
-my first github repository
-after
-my first change
-and after
-the second changed
+# Hello Git
+My first github repository
+here youwill find some helpful information for beginners
