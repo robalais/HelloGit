@@ -1,0 +1,18 @@
+How to add a local project folder (repository) at github as remote repository from a loacl computer
+
+1) you may add a README.md file
+echo "# add some word to the project" >> README.md
+
+2) you may add a .gitignore file 
+echo "all files to be ignored by git" >> .gitignore
+
+3) initialize as a git repository
+git init
+
+4) add all files and commit
+git add *
+git commit -m "first commit"
+
+5) define remote repository
+git remote add origin https://github.com/robalais/projectName.git
+git push -u origin master
