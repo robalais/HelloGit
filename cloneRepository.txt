@@ -1,0 +1,2 @@
+1) open GitBash in your workspace folder
+2) git clone https://github.com/robalais/yourProject.git
