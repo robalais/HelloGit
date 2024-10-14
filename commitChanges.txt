@@ -1,0 +1,6 @@
+// You chaged the project files and want to share them now:
+1) open GitBash in your workspace folder
+// necesarry only if new files have been added to the project
+2) git add --all  
+3) git commit -m 'a comment about the changes'
+4) git push --all
